@@ -24,5 +24,5 @@ Key performance indicators (KPI):
 •	Average call duration: 240 seconds 
 •	Average tenure month: 24
 
- ![](nexasat_1.png)
+![](nexasat_1.png)
 
