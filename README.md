@@ -11,4 +11,18 @@ The data consists of 7,403 rows and 14 columns which include the gender, marital
 The dataset was already cleaned, no null values or duplicates found just little adjustment after detecting outliers from the monthly bill amount and data usage columns.
 ## Encounter outliers:
 The outliers were detected using the +3 or -3 with the standard deviation (STDEV) function using the SQL server.  12 rows were detected and were transformed. The transformed outliers were inputted into a new table using the ‘CREATE VIEW’ alongside other columns. 
+## Analysis: 
+The following are the insights generated from the reports
+Key performance indicators (KPI):
+•	Total customers: 7,043
+•	Total male customers: 3,555
+•	Total female customers: 3,488
+•	Prepaid customers: 2,940
+•	Postpaid customers: 4,103
+•	Average monthly bill amount: $149.77
+•	Average data usage: 8.8GB
+•	Average call duration: 240 seconds 
+•	Average tenure month: 24
+
+
 
